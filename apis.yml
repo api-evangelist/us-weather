@@ -39,7 +39,6 @@ apis:
   - name: US Weather
     description: "US National Weather Service"
     humanURL: https://www.weather.gov/documentation/services-web-api
-    baseURL: https://www.weather.gov/documentation/services-web-api
     tags:
       - Weather
     properties:
